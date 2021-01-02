@@ -1,2 +1,2 @@
 # lankychat
-Chat app
+Chat app built for.... things, I don't know.
